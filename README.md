@@ -1,1 +1,2 @@
-# case-converter
+# FREE ONLINE CASE CONVERTER
+Free online Case Converter tool to instantly change text into UPPERCASE, lowercase, Title Case, and Sentence case. This fast and easy text formatter also includes a word counter, character counter, and one-click copy-to-clipboard feature. Perfect for students, writers, bloggers, developers, and professionals who need quick and reliable text formatting. No downloads, no sign-ups — 100% free and works instantly in your browser.
